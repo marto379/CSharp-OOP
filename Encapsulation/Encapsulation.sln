@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBoxData", "ClassBoxData\ClassBoxData.csproj", "{98B8C7F9-D889-468E-959C-EAEC861D7D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballTeamGenerator", "FootballTeamGenerator\FootballTeamGenerator.csproj", "{49EB9C63-C8A1-47EF-B265-75DA89DBDB3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98B8C7F9-D889-468E-959C-EAEC861D7D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B8C7F9-D889-468E-959C-EAEC861D7D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B8C7F9-D889-468E-959C-EAEC861D7D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B8C7F9-D889-468E-959C-EAEC861D7D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EB9C63-C8A1-47EF-B265-75DA89DBDB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EB9C63-C8A1-47EF-B265-75DA89DBDB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EB9C63-C8A1-47EF-B265-75DA89DBDB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EB9C63-C8A1-47EF-B265-75DA89DBDB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CBC6EA0-59C2-4741-BB45-3C88FC723DD3}
+	EndGlobalSection
+EndGlobal
